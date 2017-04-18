@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+	
+
+
+<item>
+<title>[COLOR lawngreen][B]Tv[/B][/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/Geek-Tuga-Iptv/Geek-Tuga-Iptv/master/SUB-MENUS/TV%20DESPORTO.xml</externallink>
+<fanart>https://cld.pt/dl/download/6e570b5e-5649-44f4-8529-b059b0c485f6/TV.jpg</fanart>
+<thumbnail>https://cld.pt/dl/download/f46af289-5a0f-410b-87f3-8bf66713a494/tv.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR lawngreen][B]DESPORTO[/B][/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/Geek-Tuga-Iptv/Geek-Tuga-Iptv/master/SUB-MENUS/TV%20PORTUGUESA.xml</externallink>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart11.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]FILMES [/B][/COLOR]</title>
+<link><link>http://ignorame</link></link>
+<externallink>https://raw.githubusercontent.com/Geek-Tuga-Iptv/Geek-Tuga-Iptv/master/SUB-MENUS/specto%20XML.xml</externallink>
+<fanart>https://cld.pt/dl/download/2d9f3327-1efd-4b19-8de2-9ce6a71874f3/FILMES.jpg</fanart>
+<thumbnail>https://cld.pt/dl/download/efb4c57b-17d3-4152-ba1d-e677d11ec07d/filmes.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR lawngreen][B]ANIMAÇÃO[/B][/COLOR] </title>
+<link><link>http://ignorame</link></link>
+<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
+<fanart>https://cld.pt/dl/download/95e6b48e-7bc4-49e3-9243-14a29448e68b/ANIMA%C3%87AO.jpg</fanart>
+<thumbnail>https://cld.pt/dl/download/04665640-8f29-4e86-bfec-2fb833c36281/animation.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]RADIOS[/B][/COLOR] </title>
+<link><link>http://ignorame</link></link>
+<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
+<fanart>https://cld.pt/dl/download/3195f3ce-5149-47e8-bbbd-f992a3ba783c/RADIOS.jpg</fanart>
+<thumbnail>https://cld.pt/dl/download/7f0365a2-2b54-458c-a709-7fe8935040c6/radios.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]YOUTUBE[/B][/COLOR] </title>
+<link><link>http://ignorame</link></link>
+<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
+<fanart>http://findicons.com/files/icons/2561/1st_mx_is_4c/256/youtube.png</fanart>
+<thumbnail>http://www.sawyoo.com/postpic/2009/08/blue-youtube-banner-background-21-20-by-1192_17433.jpg</thumbnail>
+</item>.
+
+

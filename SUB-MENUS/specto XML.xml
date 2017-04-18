@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lawngreen]FILMES[/COLOR]</title>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/geek-t10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR lawngreen]SÉRIES [/COLOR]</title>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/geek-t10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
+</item>
+
+
+<item>
+<title>[COLOR lawngreen]CANAIS[/COLOR]</title>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/geek-t10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=channels</jsonrpc>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lawngreen]ÚLTIMOS FILMES[/COLOR]</title>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/geek-t10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieWidget</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR lawngreen]ÚLTIMOS EPISODIOS[/COLOR]</title>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/geek-t10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=calendar&amp;url=added</jsonrpc>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lawngreen]FERRAMENTAS[/COLOR]</title>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/geek-t10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=toolNavigator</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR lawngreen]PESQUISAR[/COLOR]</title>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/geek-t10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=searchNavigator</jsonrpc>
+</item>

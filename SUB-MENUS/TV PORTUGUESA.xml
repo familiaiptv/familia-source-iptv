@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lawngreen]PORTUGAL TV[/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/VIP-TVsupertuga/VIP-TVsupertuga/master/SUB-MENUS/TV%20PORTUGUESA/TV%20PORTUGUESA.xml</externallink>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+</item>
+
+<item>       
+<title>[COLOR lawngreen] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lawngreen][B]LISTAS DIARIAS PT[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lawngreen]Geek Tuga Iptv[/COLOR] [COLOR lawngreen ][makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://raw.githubusercontent.com/Geek-Tuga-Iptv/Geek-Tuga-Iptv/master/SUB-MENUS/PORTUGUESA/DIARIAS.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lawngreen]Geek Tuga Iptv[COLOR llawngreen][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] Geek Tuga Iptv[/COLOR] [makelist.param1]</link>
+ <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+</item>
+
+
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] Geek Tuga Iptv[/COLOR] [makelist.param1]</link>
+ <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart12.jpg</fanart>
+</item>
+

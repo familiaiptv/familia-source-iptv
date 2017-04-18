@@ -1,0 +1,180 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="0626.png",[COLOR FF87df22]Rai 1 HD[/COLOR]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803|Player=HLS
+#EXTINF:-1 tvg-logo="0627.png",[COLOR FF87df22]Rai 2 HD[/COLOR]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116|Player=HLS
+#EXTINF:-1 tvg-logo="0628.png",[COLOR FF87df22]Rai 3 HD[/COLOR]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117|Player=HLS
+#EXTINF:-1 tvg-logo="0623.png",[COLOR FF76ce11]Rai 4[/COLOR]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966|Player=HLS
+#EXTINF:-1 tvg-logo="0624.png",[COLOR FF76ce11]Rai 5[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8|Player=HLS
+#EXTINF:-1 tvg-logo="0611.png",[COLOR FF87df22]Rai Sport 1 HD[/COLOR]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145|Player=HLS
+#EXTINF:-1 tvg-logo="0619.png",[COLOR FF76ce11]Rete 4[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="0614.png",[COLOR FF76ce11]Canale 5[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="0615.png",[COLOR FF76ce11]Italia 1[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="la5.png",[COLOR FF76ce11]La5[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="iris.png",[COLOR FF76ce11]Iris[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="topcrime.png",[COLOR FF76ce11]Top Crime[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="extra.png",[COLOR FF76ce11]Mediaset Extra[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="italia2.png",[COLOR FF76ce11]Italia 2[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="tgcom.png",[COLOR FF76ce11]Tgcom24[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="0620.png",[COLOR FF76ce11]Cielo[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1 tvg-logo="ibizatv.png",[COLOR FF76ce11]Ibiza TV[/COLOR]
+http://wma10.fluidstream.net/RadioIbizaTV/livestream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="0626.png",[COLOR FFFF00FF]Rai 1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rai_1_hd
+#EXTINF:-1 tvg-logo="0606.png",[COLOR FFDC54D3]Rai 2[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rai_2
+#EXTINF:-1 tvg-logo="0607.png",[COLOR FFDC54D3]Rai 3[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rai_3
+#EXTINF:-1 tvg-logo="0608.png",[COLOR FFDC54D3]Rai Gulp[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rai_gulp
+#EXTINF:-1 tvg-logo="0613.png",[COLOR FFDC54D3]Rai News 24[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rai_news
+#EXTINF:-1 tvg-logo="0602.png",[COLOR FFFF00FF]RSI LA 1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_hd
+#EXTINF:-1 tvg-logo="0604.png",[COLOR FFFF00FF]RSI LA 2 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_hd
+#EXTINF:-1 tvg-logo="c5hd.png",[COLOR FFFF00FF]Canale 5 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=canale_5_hd
+#EXTINF:-1 tvg-logo="ita1hd.png",[COLOR FFFF00FF]Italia 1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=italia_1_hd
+#EXTINF:-1 tvg-logo="r4hd.png",[COLOR FFFF00FF]Rete 4 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rete_4_hd
+#EXTINF:-1 tvg-logo="0617.png",[COLOR FFDC54D3]LA7[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=la_7
+#EXTINF:-1 tvg-logo="mtv8.png",[COLOR FFDC54D3]TV 8[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tv_8
+#EXTINF:-1 tvg-logo="0620.png",[COLOR FFDC54D3]Cielo[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=cielo
+#EXTINF:-1 tvg-logo="rtl1025.png",[COLOR FFDC54D3]RTL 102.5[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_1025_tv
+#EXTINF:-1 tvg-logo="0035.png",[COLOR FFDC54D3]EuroNews Italiano[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_it
+#EXTINF:-1 tvg-logo="0618.png",[COLOR FFDC54D3]Tele Ticino[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_ticino
+#EXTINF:-1 tvg-logo="0611.png",[COLOR FFDC54D3]Rai Sport 1[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_1
+#EXTINF:-1 tvg-logo="0612.png",[COLOR FFDC54D3]Rai Sport 2[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_2
+
+
+
+
+
+
+#EXTINF:-1, RAI 5 
+http://b2.stream12.rai.it/live/smil%3arai5.smil/playlist.m3u8
+#EXTINF:-1, RAI 5 
+http://stream12.rai.it/live/rai5.smil/master.m3u8
+#EXTINF:-1, RAI Premium 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1, RAI Movie 
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1, RAI Movie 
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1200000.m3u8
+#EXTINF:-1, Rete 4
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
+#EXTINF:-1, Canale 5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:-1, Italia 1
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1, Rai 4
+http://originstream12.rai.it/italy/smil:rai4.smil/chunklist_b1800000.m3u8
+#EXTINF:-1, La5
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:-1, La7
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+#EXTINF:-1, La7D
+http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
+#EXTINF:-1, PARAMOUNT CHANNEL
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:-1, Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1, Top Crime
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+#EXTINF:-1, Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1, Rai Gulp (opz2)
+mmsh://212.162.68.163/Rai_gulp
+#EXTINF:-1, Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1, Rai Storia
+http://b2.stream6.rai.it/italy/smil%3araistoria.smil/chunklist_b900000.m3u8?auth=daEa3dzcycocbcnbPdLaLbXbra_a3dPcjaf-bw6Xge-c0-FmwwvGr&aifp=V001
+#EXTINF:-1, Rai Storia (opz2)
+mmsh://212.162.68.163/rai_storia
+#EXTINF:-1, Rai Scuola
+http://stream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1, Rai Nettuno 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=385140
+#EXTINF:-1, ALICE
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, MARCOPOLO
+http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Iris
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+#EXTINF:-1, Cielo
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1, Mediaset Extra
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
+#EXTINF:-1, Italia 2 
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+#EXTINF:-1, Class-Cnbc
+http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
+#EXTINF:-1, Tv2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1, QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:-1, Class Tv Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1, Automoto Tv
+rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
+#EXTINF:-1, RADIO RADICALE TV 
+http://video-4.radioradicale.it:1935/diretta/padtv1/chunklist_w1993029635.m3u8
+
+#EXTINF:-1, RAI Scuela 
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1, RAI News 24 
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
+#EXTINF:-1, Sky Tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1, RAI sport 
+http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEdKa9d2cNcRdWa2cIcedUaq[BR]aTd6bWc3-bwOKEL-c0-GjsxvGw&aifp=V001
+#EXTINF:-1, TSN 
+http://wms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
+#EXTINF:-1, TELE ARENA 
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1, Alice
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, La 7
+http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
+
+
+
+
+
+
+
+
+
