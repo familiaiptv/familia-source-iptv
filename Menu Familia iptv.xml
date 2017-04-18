@@ -17,8 +17,8 @@
 <title>[COLOR lawngreen][B]DESPORTO[/B][/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/Geek-Tuga-Iptv/Geek-Tuga-Iptv/master/SUB-MENUS/TV%20PORTUGUESA.xml</externallink>
-<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart11.jpg</fanart>
-<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/portug10.png</thumbnail>
+<fanart>https://cld.pt/dl/download/11c7cacd-9640-40ce-873d-3403f40bb44e/desporto.png</fanart>
+<thumbnail>https://cld.pt/dl/download/5aebfa41-d50a-4f95-9eb6-a92588ff9629/DESPORTO.jpg</thumbnail>
 </item>
 
 <item>
@@ -51,8 +51,8 @@
 <title>[COLOR lawngreen][B]YOUTUBE[/B][/COLOR] </title>
 <link><link>http://ignorame</link></link>
 <jsonrpc>plugin://plugin.video.youtube</jsonrpc>
-<fanart>http://findicons.com/files/icons/2561/1st_mx_is_4c/256/youtube.png</fanart>
-<thumbnail>http://www.sawyoo.com/postpic/2009/08/blue-youtube-banner-background-21-20-by-1192_17433.jpg</thumbnail>
-</item>.
+<fanart>http://www.sawyoo.com/postpic/2009/08/blue-youtube-banner-background-21-20-by-1192_17433.jpg</fanart>
+<thumbnail>http://findicons.com/files/icons/2561/1st_mx_is_4c/256/youtube.png</thumbnail>
+</item>
 
 
